@@ -1,0 +1,26 @@
+-------------------
+PBI date range
+-------------------
+https://github.com/OrysyaStus/SeismicBlog/blob/master/Data_Visualizations/Dynamic_Visuals_Using_Date_Range_Slicers_Pt1/DynamicDateRangeSlicers.pbix
+
+https://github.com/OrysyaStus/SeismicBlog/blob/master/Data_Visualizations/Dynamic_Visuals_Using_Date_Range_Slicers_Pt2/DateRangeSlicerRelativeValues.pbix
+
+https://onedrive.live.com/?authkey=%21AFi%2DOWm8D0RYgcE&cid=2553B619B881BBF9&id=2553B619B881BBF9%214990&parId=2553B619B881BBF9%214989&o=OneUp
+
+https://pbitipsblob.blob.core.windows.net/externalshare/Blog%20-%20Dynamic%20Time%20Matrix.zip
+
+-------------------
+R Forecast
+-------------------
+https://community.rstudio.com/t/how-to-compare-a-forecast-model-to-actual-data-and-what-is-uncertainty/23598/3
+
+-------------------
+Process Flow
+-------------------
+https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381928?tab=Overview
+
+-------------------
+Ticker
+-------------------
+https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104380946?tab=Overview
+
